@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zhade.dev/cryptid-log"
 languageCode = "en-us"
 title = "Cryptid Tracker"
 theme = "ananke"
