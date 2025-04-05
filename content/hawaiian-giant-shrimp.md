@@ -6,6 +6,7 @@ tags:
  - "crustacean"
  - "hawaii"
 draft: false
+featured: true
 ---
 
 The Hawaiian Giant Shrimp (_Litopenaeus hawaiiensis_) is a species of shrimp found in the shallow waters around the Hawaiian Islands.
